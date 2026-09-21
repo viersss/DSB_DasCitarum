@@ -51,3 +51,5 @@ Keduanya di-join menggunakan SubDAS_ID.
 
 Jika nama field ID pada GeoJSON berbeda, ubah fungsi
 getSubdasID() di js/app.js.
+
+DONE YEY
